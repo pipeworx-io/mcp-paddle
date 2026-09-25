@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-paddle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for paddle",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-6331e4f6ff9dfb7e662753ab9526e12dc00ddaa822f0e83e70337a533c1c7908",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
